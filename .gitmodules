@@ -1,0 +1,9 @@
+[submodule "rock"]
+	path = rock
+	url = https://github.com/lankaapura/rock
+[submodule "y-shaped-stick"]
+	path = y-shaped-stick
+	url = https://github.com/lankaapura/y-shaped-stick
+[submodule "rubber-band"]
+	path = rubber-band
+	url = https://github.com/lankaapura/rubber-band
